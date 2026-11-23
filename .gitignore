@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+*.db
+*.db-shm
+*.db-wal
+
+# Local test and runtime data
+/.testappdata/
+/.testtmp/
+/.tmp/
+/.tmpx/
